@@ -206,7 +206,7 @@ auditoria de segurança e demonstração de habilidades técnicas, mas **não é
 
 **Uso comercial, redistribuição ou cópia são proibidos** sem autorização expressa.
 
-Para licenciamento comercial ou parcerias, entre em contato: fabio@autorota.com
+Para licenciamento comercial ou parcerias, entre em contato: fabiobbsa@outlook.com
 
 Veja o arquivo [LICENSE](LICENSE) para os termos completos.
 

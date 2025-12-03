@@ -83,7 +83,7 @@ Interessado em usar Auto-Rota para seu negócio? Oferecemos:
    - Expansão para sua região
 
 ### **Contato:**
-- 📧 Email: fabio@autorota.com
+- 📧 Email: fabiobbsa@outlook.com
 - 🌐 Website: https://autorota.com
 - 💼 LinkedIn: [Fabio Barbosa]
 
@@ -185,6 +185,6 @@ Se alguém está usando seu código indevidamente:
 
 ---
 
-**Dúvidas sobre licenciamento?** Entre em contato: fabio@autorota.com
+**Dúvidas sobre licenciamento?** Entre em contato: fabiobbsa@outlook.com
 
 **Este projeto é seu futuro negócio. Proteja-o!** 🛡️
