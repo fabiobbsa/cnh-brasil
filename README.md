@@ -156,6 +156,17 @@ O projeto utiliza um design system completo baseado em:
 - **Animações**: Transições suaves com `tailwindcss-animate`
 - **Responsividade**: Mobile-first com breakpoints otimizados
 
+### Customização de Imagens
+
+Para personalizar as imagens do projeto (logo, favicon, thumbnail de compartilhamento):
+
+1. Adicione suas imagens na pasta `public/`
+2. Consulte o guia completo em [`IMAGES-GUIDE.md`](./IMAGES-GUIDE.md)
+
+**Imagens necessárias:**
+- `public/og-image.png` (1200x630px) - Thumbnail de compartilhamento
+- `public/favicon.ico` (32x32px) - Ícone do navegador
+
 ## 🔒 Segurança e Conformidade
 
 - ✅ Integração com sistema Renach (Detran)
