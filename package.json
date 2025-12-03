@@ -3,7 +3,8 @@
   "private": true,
   "version": "1.0.0",
   "description": "Plataforma para conectar alunos e instrutores de trânsito autônomos",
-  "author": "Fabio Barbosa",
+  "author": "Fabio Barbosa <fabio@autorota.com>",
+  "license": "UNLICENSED",
   "type": "module",
   "scripts": {
     "dev": "vite",
