@@ -199,7 +199,16 @@ Contribuições são bem-vindas! Para contribuir:
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+**Copyright © 2025 Fabio Barbosa. Todos os direitos reservados.**
+
+Este é um software proprietário. O código está disponível publicamente para revisão, 
+auditoria de segurança e demonstração de habilidades técnicas, mas **não é open source**.
+
+**Uso comercial, redistribuição ou cópia são proibidos** sem autorização expressa.
+
+Para licenciamento comercial ou parcerias, entre em contato: fabiobbsa@outlook.com
+
+Veja o arquivo [LICENSE](LICENSE) para os termos completos.
 
 ## 📞 Contato
 
